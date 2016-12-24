@@ -1,0 +1,539 @@
+{
+	"mapwidth": "2000",
+	"mapheight": "1333",
+	"categories": [
+		{
+			"id": "map-area",
+			"title": "園區地標",
+			"color": "#991717",
+			"show": "false"
+		},
+		{
+			"id": "rooms",
+			"title": "大樓區",
+			"color": "#b81e1e",
+			"show": "true"
+		},
+		{
+			"id": "cabin",
+			"title": "森林別墅區",
+			"color": "#991717",
+			"show": "true"
+		},
+		{
+			"id":"shop",
+			"title":"人氣商店",
+			"color":"#b81e1e",
+			"show":"true"
+		}
+	],
+	"levels": [
+		{
+			"id": "monstervillage",
+			"title": "monstervillage",
+			"map": "images/monstervillage/lower.jpg",
+			"minimap": "images/monstervillage/lower-small.jpg",
+			"locations": [
+				{
+					"id": "dog-status",
+					"title": "天狗雕像",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.8360",
+					"y": "0.0255",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status2",
+					"title": "鬼妖郵筒",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.9157",
+					"y": "0.3196",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status3",
+					"title": "忠犬雕像",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.8458",
+					"y": "0.3121",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status4",
+					"title": "平安鼓廣場",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.7702",
+					"y": "0.3968",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status5",
+					"title": "感召石",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.4839",
+					"y": "0.7405",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status6",
+					"title": "舞濱舞台",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"x": "0.777",
+					"y": "0.5125",
+					"zoom": "2"
+				},
+				{
+					"id": "monster-status7",
+					"title": "松林勝一銅像",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.7615",
+					"y": "0.5839",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status8",
+					"title": "良緣祈願池",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.7437",
+					"y": "0.6398",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status9",
+					"title": "火云妖",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.7437",
+					"y": "0.6398",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status10",
+					"title": "鳥居",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "red",
+					"x": "0.7767",
+					"y": "0.8251",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status11",
+					"title": "七眼門擋妖",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.5879",
+					"y": "0.4022",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status12",
+					"title": "白目清酒鬼",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.5228",
+					"y": "0.7367",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status13",
+					"title": "籤鳥居",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "red",
+					"x": "0.4652",
+					"y": "0.3151",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status14",
+					"title": "啤酒聖誕樹",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "red",
+					"x": "0.4830",
+					"y": "0.6969",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status15",
+					"title": "妖怪公車",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.6378",
+					"y": "0.9025",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status16",
+					"title": "清酒牆",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.7232",
+					"y": "0.8987",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status17",
+					"title": "山大王包子簡",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.4839",
+					"y": "0.7405",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status18",
+					"title": "奉納御神燈",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.8682",
+					"y": "0.9220",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-status19",
+					"title": "心魔三仲煞",
+					"about": "妖怪村地標之一",
+					"description": "妖怪村地標之一",
+					"category": "map-area",
+					"pin": "hidden",
+					"x": "0.9567",
+					"y": "0.1390",
+					"zoom": "3"
+				},
+
+
+
+				{
+					"id": "monster-room",
+					"title": "飯店接待大廳",
+					"about": "飯店接待大廳",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "rooms",
+					"pin": "red",
+					"x": "0.5972",
+					"y": "0.7003",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-room1",
+					"title": "枯麻主題房-明山一館",
+					"about": "枯麻主題房-明山一館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "rooms",
+					"pin": "red",
+					"x": "0.5358",
+					"y": "0.3320",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-room2",
+					"title": "行雲樓-明山一館",
+					"about": "行雲樓-明山一館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "rooms",
+					"pin": "red",
+					"x": "0.4706",
+					"y": "0.5838",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-room3",
+					"title": "鳳凰樓-明山三館",
+					"about": "鳳凰樓-明山三館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "rooms",
+					"pin": "red",
+					"x": "0.4121",
+					"y": "0.5537",
+					"zoom": "3"
+				},
+				{
+					"id": "monster-room4",
+					"title": "百老匯主題房",
+					"about": "百老匯主題房",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "rooms",
+					"pin": "red",
+					"x": "0.6936",
+					"y": "0.1043",
+					"zoom": "3"
+				},
+
+				{
+					"id": "cabin-room1",
+					"title": "飄嵐雅舍",
+					"about": "飄嵐雅舍",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.2268",
+					"y": "0.4025",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room2",
+					"title": "擁月樓",
+					"about": "擁月樓",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.1737",
+					"y": "0.4228",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room3",
+					"title": "忘塵居",
+					"about": "忘塵居",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.1298",
+					"y": "0.4100",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room4",
+					"title": "滴露閤",
+					"about": "滴露閤",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.0932",
+					"y": "0.3823",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room5",
+					"title": "達觀山堂",
+					"about": "達觀山堂",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.0867",
+					"y": "0.2960",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room6",
+					"title": "攏翠齋",
+					"about": "攏翠齋",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.1028",
+					"y": "0.1970",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room7",
+					"title": "集英客棧",
+					"about": "集英客棧",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.1618",
+					"y": "0.1947",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room8",
+					"title": "探溪小築",
+					"about": "探溪小築",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.2088",
+					"y": "0.1820",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room9",
+					"title": "暢懷爐",
+					"about": "暢懷爐",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.2518",
+					"y": "0.2165",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room10",
+					"title": "迎風亭",
+					"about": "迎風亭",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.2823",
+					"y": "0.2795",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room11",
+					"title": "清溪館",
+					"about": "清溪館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.3928",
+					"y": "0.3110",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room12",
+					"title": "鴻賓館",
+					"about": "鴻賓館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.4073",
+					"y": "0.2495",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room13",
+					"title": "有巢館",
+					"about": "有巢館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.4533",
+					"y": "0.1872",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room15",
+					"title": "溪頭賓館",
+					"about": "溪頭賓館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.5033",
+					"y": "0.1707",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room16",
+					"title": "鴻賓館",
+					"about": "鴻賓館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.5623",
+					"y": "0.1730",
+					"zoom": "3"
+				},
+				{
+					"id": "cabin-room17",
+					"title": "翠園館",
+					"about": "翠園館",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "cabin",
+					"pin": "circular",
+					"x": "0.4798",
+					"y": "0.2862",
+					"zoom": "3"
+				},
+				{
+					"id": "shop1",
+					"title": "久保田烘焙坊",
+					"about": "久保田烘焙坊",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "shop",
+					"pin": "red",
+					"x": "0.6208",
+					"y": "0.4966",
+					"zoom": "3"
+				},
+				{
+					"id": "shop2",
+					"title": "利元居酒屋",
+					"about": "利元居酒屋",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "shop",
+					"pin": "red",
+					"x": "0.4373",
+					"y": "0.6827",
+					"zoom": "3"
+				},
+				{
+					"id": "shop3",
+					"title": "柑仔店",
+					"about": "柑仔店",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "shop",
+					"pin": "red",
+					"x": "0.5773",
+					"y": "0.8275",
+					"zoom": "3"
+				},
+				{
+					"id": "shop4",
+					"title": "老松林餅鋪",
+					"about": "老松林餅鋪",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "shop",
+					"pin": "red",
+					"x": "0.5722",
+					"y": "0.8702",
+					"zoom": "3"
+				},
+				{
+					"id": "shop5",
+					"title": "妖怪村主題餐廳",
+					"about": "妖怪村主題餐廳",
+					"description":"更多詳細訊息 <a class=\"mapplic-popup-image\" href=\"images/hq.jpg\">upstairs</a>!",
+					"category": "shop",
+					"pin": "red",
+					"x": "0.6376",
+					"y": "0.3452",
+					"zoom": "3"
+				}
+
+			]
+		}
+	]
+}
